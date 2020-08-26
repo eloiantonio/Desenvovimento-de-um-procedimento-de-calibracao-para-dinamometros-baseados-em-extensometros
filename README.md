@@ -1,0 +1,1 @@
+# Development-of-a-calibration-procedure-for-dynamometers-based-on-strain-gauge
